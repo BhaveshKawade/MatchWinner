@@ -1,0 +1,19 @@
+{
+    "name": "easternenterprise/playgame",
+    "description": "Play Game Package- By matching drains of each play of team A and team B",
+    "type": "project",
+    "license": "MIT'",
+    "authors": [
+        {
+            "name": "Bhavesh Kawade",
+            "email": "bhaveshkawade@gmail.com"
+        }
+    ],
+    "minimum-stability": "dev",
+    "autoload": {
+        "psr-4": {
+            "EasternEnterprise\\Playgame\\": "src/"
+        }
+    },
+    "require": {}
+}
