@@ -1,6 +1,6 @@
 # MatchWinner
 
-To compare drain of Team A and Team B
+Custom package with artisan command to compare drain of Team A and Team B
 arrange team A in such a way that suppose Team A contain drain [35, 100, 20, 50, 40]
 <br>and team B contain drain [35, 10, 30, 20, 90]
 
